@@ -4,7 +4,6 @@ session_start();
 
 session_destroy();
 
+//this is great
 header('Location: next.php');
 ?>
-
-Cookie:PHPSESSID=pb2csq70e6ms9rne8361jq27s7
