@@ -28,6 +28,9 @@ if(isset($_GET['log']) && $_GET['log'] == 'out'){
 		<label>Enter new Stuff</label>
 		
 		<input type="text" name="stuff" />
+		
+		<label>Enter new thing</label>
+		<input type="text" name="thing" />
 		<input type="submit" />
 		
 	</form>
